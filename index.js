@@ -1,7 +1,5 @@
 let countEl = document.getElementById("count-el")  // pass in arguments
 let saveEl = document.getElementById("save-el")
-console.log(countEl)
-
 let count = 0
 function increment() {
     count = count + 1
